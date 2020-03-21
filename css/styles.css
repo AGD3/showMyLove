@@ -1,0 +1,26 @@
+body (
+    display: flex;
+    justify-content: center;
+)
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    width: 50px;
+}
+
+#btn {
+    background-color: red;
+    border: 4px black;
+    border-radius: 25px;
+    height: 60px;
+    width: 200px;
+}
